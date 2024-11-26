@@ -1,0 +1,17 @@
+{
+  "name": "izzy-khalid-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Izzy Khalid",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["portfolio", "personal website", "resume"],
+  "author": "Izzy Khalid",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
